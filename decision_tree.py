@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Nishara Hysmith
-# FILENAME: title of the source file
+# FILENAME: decision_tree.py
 # SPECIFICATION: description of the program
 # FOR: CS 4200- Assignment #1
 # TIME SPENT: 30 - 45 mins
