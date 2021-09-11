@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------*/
 # AUTHOR: Nishara Hysmith
-# FILENAME: title of the source file
+# FILENAME: find_s.py
 # SPECIFICATION: This program reads a csv file and assigns the rows to a list, db. 
 # Then that list is iterated through and all the positive instances are placed into a new list, positiveInstances.
 # The first element in positiveInstances is used as the initial vector hypothesis. 
