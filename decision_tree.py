@@ -1,7 +1,10 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Nishara Hysmith
 # FILENAME: decision_tree.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: This program reads a csv file and assigns the rows to a list, db. 
+# Then that list is iterated through and training features are converted into numbers and saved in X.
+# The training class values are converted into numbers and stored in Y. 
+# Then the data is fitted to a decision tree.
 # FOR: CS 4200- Assignment #1
 # TIME SPENT: 30 - 45 mins
 #-----------------------------------------------------------*/
